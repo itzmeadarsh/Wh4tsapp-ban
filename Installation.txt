@@ -1,0 +1,10 @@
+--How to install--
+#
+#
+git clone https://github.com/itzmeadarsh/Wh4tsapp-ban
+#
+cd Numb3r_b4nn3r
+#
+#
+python3 main.py
+
